@@ -63,7 +63,7 @@ proguard/
 
 
 # Hive ******************************
-*.vbs
-*.wsh
-*.wsf
+# *.vbs
+# *.wsh
+# *.wsf
 
